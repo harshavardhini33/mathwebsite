@@ -209,9 +209,11 @@ h1{
 ```
 
 ## OUTPUT:
-![ass](./here.png)
+![ass](https://user-images.githubusercontent.com/93427208/149658483-70c21df1-629e-453c-b7f3-6712d062745a.png)
 
-![maths](./harsha.png)
+
+![maths](https://user-images.githubusercontent.com/93427208/149658511-0337861e-57b3-49b9-ae50-d48c0b16f5fd.png)
+
 ## Result:
 
 Thus a website is designed to perform mathematical calculations in the client side.
